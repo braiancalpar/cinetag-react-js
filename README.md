@@ -1,3 +1,7 @@
+<details>
+
+<summary>Create React App</summary>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +72,35 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+</details>
+
+<hr>
+
+# Projeto CineTag
+
+Existe uma fake-api que precisa ser criada dependendo do repositório que esteja tentando usar.
+Basicamente siga os passos e entre no link abaixo em caso de dúvida:
+<hr>
+
+https://my-json-server.typicode.com/
+
+<hr>
+
+<details>
+<summary>Passo a passo</summary>
+
+<hr>
+
+- Create a repository on GitHub (< your-username >/< your-repo >)
+- Create a db.json file
+- Visit https://my-json-server.typicode.com/< your-username >/< your-repo > to access your server
+
+</details>
+
+<hr>
+
+## Porém para fins de agilizar a situação basta usar o modelo abaixo:
+#### https://my-json-server.typicode.com/< your-username >/< your-repo >
+
+#### *Estou presumindo que tu já criou um repositório com o db.json do cinetag na sua conta do github.*
